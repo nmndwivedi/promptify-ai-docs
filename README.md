@@ -1,4 +1,4 @@
-# Promptify.ai
+# [Promptify.ai](www.promptify.ai)
 
 ## Task specific GPT prompts consumable as APIs
 
